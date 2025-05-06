@@ -32,4 +32,4 @@ To validate a JWT token, call this endpoint.
 
 Headers returned for a successful validation.
 
-![headers](images/headers.png)
+![headers](JWT-Validator/images/headers.png)
